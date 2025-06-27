@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Esraa Amr , I'm Student at Faculty of Engineering Ain Shams University<br>- 🔭 I’m working as Android Developer <br>- 📚 I'm currently learning Flutter</p>
+<p align="left">I'm Esraa Amr , Software Engineer with a Bachelor's in Computer and Systems Engineering from Ain Shams University. Specialized in backend development using Java and Spring Boot, with hands-on experience in building scalable APIs, microservices, and containerized applications. Passionate about backend engineering, clean architecture, and continuous learning.</p>
 
 ###
 
