@@ -1,82 +1,83 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+# 🌟 Esraa Amr 🌟  
+Software Engineer | Mobile & Backend Developer | AI Enthusiast  
 
-###
+📧 **Email:** esraaamrkandil@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/esraa-amr-3651311b6/) | [GitHub](https://github.com/esraaAmr) | 📍 Cairo, Egypt  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/esraa-amr-3651311b6/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="esraaamrkandil@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100094131482046&mibextid=LQQJ4d" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
+---
 
-###
+## 👋 About Me  
+Hi there! My name is **Esraa Amr**, and I’m a Software Engineer passionate about creating scalable, user-centric solutions.  
+I specialize in **mobile development (Flutter/Android)**, **backend with Java Spring Boot**, and **AI technologies**.  
+Currently, I’m contributing to **autonomous vehicle testing at Cruise** and continuously improving my skills in backend, mobile, and AI development.  
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/esraaAmr/count.svg?"  />
-</div>
+---
 
-###
+## 🎓 Education  
+**Ain Shams University**  
+Bachelor’s Degree in Computer and Systems Engineering (Software Engineering specialization)  
+Oct 2019 – Jul 2024 | **Grade: Very Good**  
+**Graduation Project:** *Intelligent Heritage Explorer* (sponsored by Siemens) – AR/VR and AI-based mobile and web experience for Egyptian heritage exploration.  
 
-<h1 align="center">hey my Friends 👋</h1>
+---
 
-###
+## 🔭 Currently Working On  
+- **Frontend Developer (Angular) at Micro Engineering Tech Inc.**  
+  - Building and maintaining scalable front-end solutions using Angular.  
+  - Collaborating with backend teams to integrate RESTful APIs and ensure seamless UX/UI.  
+  - Applying clean architecture and best practices for performance and maintainability.  
 
-<h3 align="left">👩‍💻  About Me</h3>
+- **Previously: Software Test Engineer at Cruise (Micro Engineering Tech Inc.)**  
+  - Tested autonomous vehicle behavior, created scenarios with Webviz & SceneEdit, documented with Jira.  
 
-###
+- **Backend Development with Java, Spring Boot, and Docker**  
+  - Building scalable backend systems, APIs, and real-time streaming solutions.  
 
-<p align="left">I'm Esraa Amr , Software Engineer with a Bachelor's in Computer and Systems Engineering from Ain Shams University. Specialized in backend development using Java and Spring Boot, with hands-on experience in building scalable APIs, microservices, and containerized applications. Passionate about backend engineering, clean architecture, and continuous learning.</p>
+- **Mobile Development (Flutter)**  
+  - Enhancing user experience, implementing clean architecture, and state management (Bloc).  
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## ⚡ Interests  
+- Reading  
+- Snorkeling  
+- Exploring the latest technologies  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-</div>
+---
 
-###
+## 🛠️ Languages & Tools  
+**Programming Languages:**  
+Kotlin · Java · Python · C++ · Dart (Flutter)  
 
-<h3 align="left">🔥   My Stats :</h3>
+**Frameworks & Libraries:**  
+Spring Boot · Flutter · Android · Machine Learning · MVVM  
 
-###
+**Databases:**  
+MySQL · MongoDB  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esraaAmr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esraaAmr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=esraaAmr&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+**Tools & Platforms:**  
+Git/GitHub · Docker · Postman · Figma · Jira · Webviz · SceneEdit  
 
-###
+---
 
-<div align="left">
-</div>
+## 📚 Notable Projects  
+- **Intelligent Heritage Explorer (Graduation Project)** – AR/VR & AI-based heritage exploration app.  
+- **Healthy & Happy Flutter App (Google DSC Solution Challenge)** – Cross-platform wellness app.  
+- **Shoe Store App (Kotlin)** – Dynamic UI with ViewModel and LiveData.  
+- **News Feed App** – Kotlin app with API integration.  
+- **Microwave Oven Controller** – Kotlin app with LiveData and dynamic UI.  
+- **Live Scheduler with Gantt Chart** – Java-based scheduler with GUI.  
 
-###
+[🔗 More on GitHub](https://github.com/esraaAmr)
+
+---
+
+## 🏆 Awards & Certificates  
+- **Google DSC Solution Challenge 2023:** Healthy and Happy Flutter App  
+- **Android App Competition:** 3rd Place (IHUB, Ain Shams University)  
+- Certificates: Siemens Project, ITI Android Development, MATLAB Programming, etc.  
+
+---
+
+## 🚀 Let’s Build the Future Together! 🚀
